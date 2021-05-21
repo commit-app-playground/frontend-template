@@ -25,7 +25,7 @@ export default function Page1() {
 
       <footer className={styles.footer}>
         <a href="https://github.com/commitdev/zero" target="_blank">
-          Powered by{'Zero'}
+          Powered by {'Zero'}
         </a>
       </footer>
     </div>
