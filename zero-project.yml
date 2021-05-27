@@ -5,13 +5,13 @@
 # Instead your repository will be your own example project!
 # ------------------------
 #
-# Fill in name of your static site
-# must be lowercase alpha-numeric with dashes only
-# NOTE: If your static site is a single page app
-# your static site will be served and accessible via <name>.onboarding.dev OR <name>.spa.onboarding.dev
-# If your page is a traditional static site (served on html files instead of purely index.html)
-# your site will be available in <name>.static.onboarding.dev
-name: 
+# Fill in name of your static site - must be lowercase alphanumeric with dashes only
+# NOTE:
+# If you are making a single page app, it will be served and accessible via
+#  <name>.spa.onboarding.dev
+# If it is a traditional static site (served via individual html files instead of purely a single index.html) it will be:
+#  <name>.static.onboarding.dev
+name:
 
 shouldPushRepositories: false
 
